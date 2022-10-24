@@ -1,0 +1,2 @@
+# terning
+Terningskast-generator
